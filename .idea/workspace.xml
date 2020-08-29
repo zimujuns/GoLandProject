@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9dfb85e8-3b01-479e-91c4-bcbd3fb41e47" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/go_code/project/main/Entity.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/project/main" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/project/main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/project/main/test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/project/main/GolandProject.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Users\Doresimon\go\go1.15" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/go_code/project/main" />
+  </component>
+  <component name="ProjectId" id="1gih508t1913sd3iArgGmAlyRks" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/go_code/project/main" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Doresimon\go\src\github.com\Doresimon\awesomeProject\src\go_code\project\main" />
+      <recent name="C:\Users\Doresimon\go\src\github.com\Doresimon\awesomeProject\src\go_code\project\main\data" />
+      <recent name="C:\Users\Doresimon\go\src\github.com\Doresimon\awesomeProject\src\go_code\project" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build C:\Users\Doresimon\go\src\github.com\Doresimon\awesomeProject\src\go_code\project\main">
+    <configuration name="go build C:\Users\Doresimon\go\src\github.com\Doresimon\awesomeProject\src\go_code\project\main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/src/go_code/project/main" />
+      <package value="C:\Users\Doresimon\go\src\github.com\Doresimon\awesomeProject" />
+      <directory value="$PROJECT_DIR$/src/go_code/project/main" />
+      <output_directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/Doresimon/awesomeProject" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <output_directory value="$PROJECT_DIR$/../../../../../../../Go/api" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build test.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/go_code/project/main/test.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test main" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$/src/go_code/project/main" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="github.com/Doresimon/awesomeProject" />
+      <directory value="$PROJECT_DIR$/src/go_code/project/main" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build C:\Users\Doresimon\go\src\github.com\Doresimon\awesomeProject\src\go_code\project\main" />
+      <item itemvalue="Go Build.go build test.go" />
+      <item itemvalue="Go Test.go test main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build C:\Users\Doresimon\go\src\github.com\Doresimon\awesomeProject\src\go_code\project\main" />
+        <item itemvalue="Go Test.go test main" />
+        <item itemvalue="Go Build.go build test.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1204" y="488" key="#GOROOT" timestamp="1598603930145">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1204" y="488" key="#GOROOT/0.0.1920.1040@0.0.1920.1040" timestamp="1598603930145" />
+    <state x="16" y="18" width="1092" height="1022" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598672457957">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="16" y="18" width="1092" height="1022" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598672457957" />
+    <state x="828" y="336" key="EnvironmentVariablesDialog" timestamp="1598606539851">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="336" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598606539851" />
+    <state x="750" y="329" key="FileChooserDialogImpl" timestamp="1598672548339">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="750" y="329" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598672548339" />
+    <state width="1342" height="405" key="GridCell.Tab.0.bottom" timestamp="1598673012868">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1342" height="405" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598673012868" />
+    <state width="1342" height="405" key="GridCell.Tab.0.center" timestamp="1598673012868">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1342" height="405" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598673012868" />
+    <state width="1342" height="405" key="GridCell.Tab.0.left" timestamp="1598673012868">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1342" height="405" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598673012868" />
+    <state width="1342" height="405" key="GridCell.Tab.0.right" timestamp="1598673012868">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1342" height="405" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598673012868" />
+    <state width="938" height="347" key="GridCell.Tab.1.bottom" timestamp="1598668934307">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598668934307" />
+    <state width="938" height="347" key="GridCell.Tab.1.center" timestamp="1598668934307">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598668934307" />
+    <state width="938" height="347" key="GridCell.Tab.1.left" timestamp="1598668934307">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598668934307" />
+    <state width="938" height="347" key="GridCell.Tab.1.right" timestamp="1598668934307">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598668934307" />
+    <state x="608" y="221" key="RollbackChangesDialog" timestamp="1598627955034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="608" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598627955034" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598672727324">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598672727324" />
+    <state x="763" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598627898108">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="763" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598627898108" />
+    <state x="800" y="278" key="refactoring.ChangeSignatureDialog" timestamp="1598671971532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="800" y="278" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598671971532" />
+    <state x="327" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1598605340324">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="327" y="233" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598605340324" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/../../../../go1.15/src/builtin/builtin.go</url>
+          <line>74</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
