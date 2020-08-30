@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9dfb85e8-3b01-479e-91c4-bcbd3fb41e47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/go_code/project/main/Entity.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/project/main" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/project/main" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/project/main/test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/project/main/GolandProject.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go_build_C__Users_Doresimon_go_src_github_com_Doresimon_awesomeProject_src_go_code_project_main.exe" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
   </component>
   <component name="GOROOT" path="C:\Users\Doresimon\go\go1.15" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/go_code/project/main" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gih508t1913sd3iArgGmAlyRks" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -50,13 +50,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="js.buildTools.grunt.grunt-cli.package" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/go_code/project/main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/go_code/project/game" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -64,50 +66,42 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Doresimon\go\src\github.com\Doresimon\awesomeProject\src\go_code\project\main" />
-      <recent name="C:\Users\Doresimon\go\src\github.com\Doresimon\awesomeProject\src\go_code\project\main\data" />
       <recent name="C:\Users\Doresimon\go\src\github.com\Doresimon\awesomeProject\src\go_code\project" />
+      <recent name="C:\Users\Doresimon\go\src\github.com\Doresimon\awesomeProject\src\go_code\project\main\data" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build C:\Users\Doresimon\go\src\github.com\Doresimon\awesomeProject\src\go_code\project\main">
-    <configuration name="go build C:\Users\Doresimon\go\src\github.com\Doresimon\awesomeProject\src\go_code\project\main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="awesomeProject" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="DIRECTORY" />
-      <filePath value="$PROJECT_DIR$/src/go_code/project/main" />
-      <package value="C:\Users\Doresimon\go\src\github.com\Doresimon\awesomeProject" />
-      <directory value="$PROJECT_DIR$/src/go_code/project/main" />
-      <output_directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build github.com/Doresimon/awesomeProject" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="awesomeProject" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="DIRECTORY" />
-      <filePath value="$PROJECT_DIR$/main.go" />
-      <directory value="$PROJECT_DIR$" />
-      <output_directory value="$PROJECT_DIR$/../../../../../../../Go/api" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build test.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build player.go">
+    <configuration name="go build Server.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/go_code/project/main/test.go" />
+      <filePath value="$PROJECT_DIR$/src/go_code/project/game/Server.go" />
+      <package value="github.com/Doresimon/awesomeProject" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go test main" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="go build game" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="awesomeProject" />
-      <working_directory value="$PROJECT_DIR$/src/go_code/project/main" />
-      <framework value="gotest" />
+      <working_directory value="$PROJECT_DIR$/src/go_code/project/game" />
       <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/src/go_code/project/game/GolandProject.go" />
+      <package value="C:\Users\Doresimon\go\src\github.com\Doresimon\awesomeProject\src\go_code\project\game" />
+      <directory value="$PROJECT_DIR$/src/go_code/project/game" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build player.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/go_code/project/client/player.go" />
       <package value="github.com/Doresimon/awesomeProject" />
-      <directory value="$PROJECT_DIR$/src/go_code/project/main" />
-      <filePath value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="js.build_tools.grunt">
@@ -116,15 +110,15 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build C:\Users\Doresimon\go\src\github.com\Doresimon\awesomeProject\src\go_code\project\main" />
-      <item itemvalue="Go Build.go build test.go" />
-      <item itemvalue="Go Test.go test main" />
+      <item itemvalue="Go Build.go build game" />
+      <item itemvalue="Go Build.go build player.go" />
+      <item itemvalue="Go Build.go build Server.go" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build C:\Users\Doresimon\go\src\github.com\Doresimon\awesomeProject\src\go_code\project\main" />
-        <item itemvalue="Go Test.go test main" />
-        <item itemvalue="Go Build.go build test.go" />
+        <item itemvalue="Go Build.go build player.go" />
+        <item itemvalue="Go Build.go build game" />
+        <item itemvalue="Go Build.go build Server.go" />
       </list>
     </recent_temporary>
   </component>
@@ -153,54 +147,66 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1204" y="488" key="#GOROOT/0.0.1920.1040@0.0.1920.1040" timestamp="1598603930145" />
-    <state x="16" y="18" width="1092" height="1022" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598672457957">
+    <state x="441" y="111" width="1092" height="628" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598755201808">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="16" y="18" width="1092" height="1022" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598672457957" />
+    <state x="441" y="111" width="1092" height="628" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598755201808" />
+    <state x="404" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598715233585">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="404" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1598715233585" />
+    <state width="520" height="466" key="DebuggerActiveHint" timestamp="1598779973675">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="520" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1598779973675" />
     <state x="828" y="336" key="EnvironmentVariablesDialog" timestamp="1598606539851">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="828" y="336" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598606539851" />
-    <state x="750" y="329" key="FileChooserDialogImpl" timestamp="1598672548339">
+    <state x="750" y="329" key="FileChooserDialogImpl" timestamp="1598718002878">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="750" y="329" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598672548339" />
-    <state width="1342" height="405" key="GridCell.Tab.0.bottom" timestamp="1598673012868">
+    <state x="750" y="329" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598718002878" />
+    <state width="1329" height="308" key="GridCell.Tab.0.bottom" timestamp="1598781594666">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1342" height="405" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598673012868" />
-    <state width="1342" height="405" key="GridCell.Tab.0.center" timestamp="1598673012868">
+    <state width="1329" height="308" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598781594666" />
+    <state width="1329" height="308" key="GridCell.Tab.0.center" timestamp="1598781594665">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1342" height="405" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598673012868" />
-    <state width="1342" height="405" key="GridCell.Tab.0.left" timestamp="1598673012868">
+    <state width="1329" height="308" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598781594665" />
+    <state width="1329" height="308" key="GridCell.Tab.0.left" timestamp="1598781594664">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1342" height="405" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598673012868" />
-    <state width="1342" height="405" key="GridCell.Tab.0.right" timestamp="1598673012868">
+    <state width="1329" height="308" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598781594664" />
+    <state width="1329" height="308" key="GridCell.Tab.0.right" timestamp="1598781594665">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1342" height="405" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598673012868" />
-    <state width="938" height="347" key="GridCell.Tab.1.bottom" timestamp="1598668934307">
+    <state width="1329" height="308" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598781594665" />
+    <state width="937" height="221" key="GridCell.Tab.1.bottom" timestamp="1598781579182">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598668934307" />
-    <state width="938" height="347" key="GridCell.Tab.1.center" timestamp="1598668934307">
+    <state width="937" height="221" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598781579182" />
+    <state width="937" height="221" key="GridCell.Tab.1.center" timestamp="1598781579181">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598668934307" />
-    <state width="938" height="347" key="GridCell.Tab.1.left" timestamp="1598668934307">
+    <state width="937" height="221" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598781579181" />
+    <state width="937" height="221" key="GridCell.Tab.1.left" timestamp="1598781579181">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598668934307" />
-    <state width="938" height="347" key="GridCell.Tab.1.right" timestamp="1598668934307">
+    <state width="937" height="221" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598781579181" />
+    <state width="937" height="221" key="GridCell.Tab.1.right" timestamp="1598781579182">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598668934307" />
+    <state width="937" height="221" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598781579182" />
     <state x="608" y="221" key="RollbackChangesDialog" timestamp="1598627955034">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="608" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598627955034" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1598755107509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598755107509" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598672727324">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -213,10 +219,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="800" y="278" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598671971532" />
-    <state x="327" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1598605340324">
+    <state x="327" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1598756667831">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="327" y="233" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598605340324" />
+    <state x="327" y="233" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598756667831" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -226,7 +232,25 @@
           <line>74</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/go_code/project/game/Server.go</url>
+          <line>22</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/go_code/project/game/Server.go</url>
+          <line>23</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/go_code/project/game/Server.go</url>
+          <line>28</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="DlvErrorBreakpoint" />
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
 </project>
